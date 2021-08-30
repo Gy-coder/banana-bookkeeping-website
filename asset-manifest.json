@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/banana-bookkeeping-website/static/css/main.98d42d6d.chunk.css",
+    "main.js": "/banana-bookkeeping-website/static/js/main.6a615e82.chunk.js",
+    "main.js.map": "/banana-bookkeeping-website/static/js/main.6a615e82.chunk.js.map",
+    "runtime-main.js": "/banana-bookkeeping-website/static/js/runtime-main.bc3c14b5.js",
+    "runtime-main.js.map": "/banana-bookkeeping-website/static/js/runtime-main.bc3c14b5.js.map",
+    "static/js/2.51f94b24.chunk.js": "/banana-bookkeeping-website/static/js/2.51f94b24.chunk.js",
+    "static/js/2.51f94b24.chunk.js.map": "/banana-bookkeeping-website/static/js/2.51f94b24.chunk.js.map",
+    "index.html": "/banana-bookkeeping-website/index.html",
+    "static/css/main.98d42d6d.chunk.css.map": "/banana-bookkeeping-website/static/css/main.98d42d6d.chunk.css.map",
+    "static/js/2.51f94b24.chunk.js.LICENSE.txt": "/banana-bookkeeping-website/static/js/2.51f94b24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc3c14b5.js",
+    "static/js/2.51f94b24.chunk.js",
+    "static/css/main.98d42d6d.chunk.css",
+    "static/js/main.6a615e82.chunk.js"
+  ]
+}
